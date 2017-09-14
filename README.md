@@ -12,6 +12,8 @@ tool for financial system analysis.
 
 The report file is too big to put in the GitHub. Please see the report and the presentation through the Google Drive link:
 
-* Project report: http://htmlpreview.github.io/?https://github.com/lighterkey/Data_Science_Course_Project/blob/master/Time_Series_Modeling_and_Machine_Learning_Study_on_Stock_Data.html
+* Project report: 
+http://htmlpreview.github.io/?https://github.com/lighterkey/Data_Science_Course_Project/blob/master/Time_Series_Modeling_and_Machine_Learning_Study_on_Stock_Data.html
 
-* Project presentation: https://drive.google.com/file/d/0B2qUqgiJokWpZ2ZTejdKaW5qeG8/view?usp=sharing
+* Project presentation: 
+https://drive.google.com/file/d/0B2qUqgiJokWpZ2ZTejdKaW5qeG8/view?usp=sharing
